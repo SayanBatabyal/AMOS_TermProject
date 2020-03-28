@@ -7,7 +7,7 @@ In the upcoming time, the README will be updated with the problem statement and 
 
 **Update 1:**
 The Problem Statement and our strategy to solve the problem is presented in this [document](https://github.com/SayanBatabyal/AMOS_TermProject/blob/master/TermProjectIdea_Sem2.pdf).
-
+<br>
 *Problem Statement:* To study about beam bending, vibration and buckling using Timoshenko Beam Theory.
 
 **Update 2:**
