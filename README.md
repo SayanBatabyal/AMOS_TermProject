@@ -13,7 +13,9 @@ The Problem Statement and our strategy to solve the problem is presented in this
 **Update 2:**
 The codes for bending of a Timoshenko beam is uploaded.
 A library file [Utitilies](https://github.com/SayanBatabyal/AMOS_TermProject/blob/master/Utilities.py) is written in Python to use the frequently called functions easily and repetitively.
+<br>
 The Jupyter Notebook, [Bending.ipynb](https://github.com/SayanBatabyal/AMOS_TermProject/blob/master/Bending.ipynb) shows the derivation of the beam bending problem.
+<br>
 The Jupyter Notebook, [BendingExamples.ipynb](https://github.com/SayanBatabyal/AMOS_TermProject/blob/master/BendingExamples.ipynb) will show an example of a simply-supported beam under the action of uniformly distributed load.
 
 
