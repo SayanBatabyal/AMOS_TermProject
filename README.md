@@ -10,4 +10,11 @@ The Problem Statement and our strategy to solve the problem is presented in this
 
 *Problem Statement:* To study about beam bending, vibration and buckling using Timoshenko Beam Theory.
 
+**Update 2:**
+The codes for bending of a Timoshenko beam is uploaded.
+A library file [Utitilies](https://github.com/SayanBatabyal/AMOS_TermProject/blob/master/Utilities.py) is written in Python to use the frequently called functions easily and repetitively.
+The Jupyter Notebook, [Bending.ipynb](https://github.com/SayanBatabyal/AMOS_TermProject/blob/master/Bending.ipynb) shows the derivation of the beam bending problem.
+The Jupyter Notebook, [BendingExamples.ipynb](https://github.com/SayanBatabyal/AMOS_TermProject/blob/master/BendingExamples.ipynb) will show an example of a simply-supported beam under the action of uniformly distributed load.
+
+
 For suggestions contact me at <sayanb6292@gmail.com>.
