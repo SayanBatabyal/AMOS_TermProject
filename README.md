@@ -28,5 +28,8 @@ The Jupyter Notebook, [Timoshenko_Vibration.ipynb](https://github.com/SayanBatab
 <br>
 The Jupyter Notebook [EB_Vibration.ipynb](https://github.com/SayanBatabyal/AMOS_TermProject/blob/master/EB_Vibration.ipynb) is also added in this repository to just make out the difference between the two beam theories in the vibration formulation. The derivation is presented here.
 
+**Update 4:**
+The buckling of Timoshenko beams is studied and an example problem is solved in Jupyter Notebook. [BucklingExample.ipynb](https://github.com/SayanBatabyal/AMOS_TermProject/blob/master/BucklingExample.ipynb) is the file that will illustrate on buckling of a Timoshenko beam hinged at both ends.
+
 
 For suggestions contact me at <sayanb6292@gmail.com>.
