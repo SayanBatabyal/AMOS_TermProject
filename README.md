@@ -31,5 +31,8 @@ The Jupyter Notebook [EB_Vibration.ipynb](https://nbviewer.jupyter.org/github/Sa
 **Update 4:**
 The buckling of Timoshenko beams is studied and an example problem is solved in Jupyter Notebook. [BucklingExample.ipynb](https://nbviewer.jupyter.org/github/SayanBatabyal/AMOS_TermProject/blob/master/BucklingExample.ipynb) is the file that will illustrate on buckling of a Timoshenko beam hinged at both ends.
 
+**Update 5:**
+The final report for evaluation is uploaded in the file [FinalSubmission.pdf](https://github.com/SayanBatabyal/AMOS_TermProject/blob/master/FinalSubmission.pdf).
+
 
 For suggestions contact me at <sayanb6292@gmail.com>.
